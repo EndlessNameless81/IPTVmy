@@ -10,8 +10,11 @@ https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=q6
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные",Матч!
 https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8
 
-#EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Общественные" ,НТВ
+#EXTINF:-1 group-title="Общественные",НТВ
 https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R03_NTV_VLGD/variant.m3u8
+#EXTINF:-1 group-title="Общественные",НТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=5vB4PkT2Zx6vc-wNS7E3vA&e=2095118006&scheme=https
 
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" group-title="Общественные" ,Пятый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
